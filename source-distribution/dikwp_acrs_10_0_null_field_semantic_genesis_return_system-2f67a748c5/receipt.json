@@ -1,0 +1,379 @@
+{
+  "schema": "safe-source-preparation/v1",
+  "status": "STRUCTURALLY_PREPARED_UNTESTED",
+  "prepared_at_utc": "2026-09-07T05:13:18.531821+00:00",
+  "source": {
+    "archive_path": "dikwp_acrs_10_0_null_field_semantic_genesis_return_system.zip",
+    "archive_bytes": 22366,
+    "sha256": "b407ea653cc10253ad5c54efc277a5e24088c50befdeaf8a6ba2f4ad89fe0c3e",
+    "source_url": "https://raw.githubusercontent.com/YucongDuan/DIKWP-10.0-/9c5a4870c8695841652fd610244fec11c3042704/dikwp_acrs_10_0_null_field_semantic_genesis_return_system.zip",
+    "original_unchanged": true
+  },
+  "destination": "source-distribution/dikwp_acrs_10_0_null_field_semantic_genesis_return_system-2f67a748c5",
+  "unwrapped_directory": null,
+  "project_marker_directories": [
+    "."
+  ],
+  "limits": {
+    "max_entries": 20000,
+    "max_file_bytes": 103809024,
+    "max_total_bytes": 536870912,
+    "max_archive_bytes": 104857600,
+    "max_ratio": 200.0,
+    "max_path_depth": 64,
+    "max_path_bytes": 1024
+  },
+  "workflows": {
+    "included_in_source": false,
+    "authority": "",
+    "executed": false,
+    "default": "quarantine"
+  },
+  "warnings": [],
+  "files": [
+    {
+      "archive_path": "README.md",
+      "output_path": "source/README.md",
+      "kind": "file",
+      "bytes": 752,
+      "sha256": "8d48afdaedac77e25d664cbf8a48ff849f9a798ed0c15b69da2ed91fb1447579",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "RESEARCH_USE_ONLY.txt",
+      "output_path": "source/RESEARCH_USE_ONLY.txt",
+      "kind": "file",
+      "bytes": 128,
+      "sha256": "f5c98950bf161ec6a42abd2ae29229d466559f1309c439accf5e7996fb95b58d",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "claim_level_taxonomy.md",
+      "output_path": "source/claim_level_taxonomy.md",
+      "kind": "file",
+      "bytes": 280,
+      "sha256": "8b79f914f36badccd658187da0ae20466162fa2b6de417dcb7749404a7aeb681",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "configs/ccl10z_config.json",
+      "output_path": "source/configs/ccl10z_config.json",
+      "kind": "file",
+      "bytes": 209,
+      "sha256": "873cf67e70cd34a81f13bc5d8a54760691653c3cf67ae0d177ed7ef13149b7c6",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "docs/audit_report.md",
+      "output_path": "source/docs/audit_report.md",
+      "kind": "file",
+      "bytes": 197,
+      "sha256": "d3e5a363c9b5c9d7976dcfd289d8a59cab15fbe2abcb7fb4096ea09875224684",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "docs/ccl10z_assessment_framework.md",
+      "output_path": "source/docs/ccl10z_assessment_framework.md",
+      "kind": "file",
+      "bytes": 310,
+      "sha256": "8b4b20a30df265b2b50c933f668de43ac3760ccc770cecfa0fb52b8077b4ca25",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "docs/energy_information_field_protocol.md",
+      "output_path": "source/docs/energy_information_field_protocol.md",
+      "kind": "file",
+      "bytes": 415,
+      "sha256": "298c951df5617f5f07fd24be7761540568361d9404a2f651baf623208fe85d71",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "docs/final_lab_manual.md",
+      "output_path": "source/docs/final_lab_manual.md",
+      "kind": "file",
+      "bytes": 845,
+      "sha256": "89eeac6cbef0f1ad08cb51b9039f0d43076059a9301f2242d03af59b955313e3",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "docs/governance_boundary.md",
+      "output_path": "source/docs/governance_boundary.md",
+      "kind": "file",
+      "bytes": 379,
+      "sha256": "64c06cd2ea9dff461995a2255ec750f14c2077a9ee6eef5497534391764f0483",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "docs/mesh_self_dissolution.md",
+      "output_path": "source/docs/mesh_self_dissolution.md",
+      "kind": "file",
+      "bytes": 587,
+      "sha256": "cbc3920725658bc812ed31cfd193b6c40adb231e4cb4d6182c5265e6c8f995c3",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "docs/no_concept_space_protocol.md",
+      "output_path": "source/docs/no_concept_space_protocol.md",
+      "kind": "file",
+      "bytes": 554,
+      "sha256": "aa10fdcde3def05a62b1d156ce643eb948fdd2feba7607d18aae8d4fd7c47c65",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "docs/radical_negation_and_void_protocol.md",
+      "output_path": "source/docs/radical_negation_and_void_protocol.md",
+      "kind": "file",
+      "bytes": 412,
+      "sha256": "5a9a7d5957d98720ef75c9a4f64bb3c91bfa58a84bb79c4c7beda07dc027c6b3",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "docs/semantic_genesis_return_protocol.md",
+      "output_path": "source/docs/semantic_genesis_return_protocol.md",
+      "kind": "file",
+      "bytes": 338,
+      "sha256": "57fb5451954ad397892e5e3486f5935929abc7099274cfc6a7253dd0fadedab0",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "docs/source_material_synthesis.md",
+      "output_path": "source/docs/source_material_synthesis.md",
+      "kind": "file",
+      "bytes": 1361,
+      "sha256": "d150683eb7c5907089d8d50fe79e184be6940f3109ea0b8dc06192518f05c0c2",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "docs/system_specification.md",
+      "output_path": "source/docs/system_specification.md",
+      "kind": "file",
+      "bytes": 1789,
+      "sha256": "1238cfb562913c179e73ed61f7003279f8cf64ed9f3f5035d201bc0f8b39762c",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "docs/ultimate_residual.md",
+      "output_path": "source/docs/ultimate_residual.md",
+      "kind": "file",
+      "bytes": 669,
+      "sha256": "7e2b4ab5c7e3c30e61d718a4c56414a76dcb04d51030e668048d1d687a753ffa",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "evidence_ledger_template.md",
+      "output_path": "source/evidence_ledger_template.md",
+      "kind": "file",
+      "bytes": 439,
+      "sha256": "fd0993fbb727eb44d51d006a95da725c89daf2c817ee7e7ce4a49e8b585bad0a",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "experiments/run_ccl10z_suite_10_0.py",
+      "output_path": "source/experiments/run_ccl10z_suite_10_0.py",
+      "kind": "file",
+      "bytes": 267,
+      "sha256": "9a430fb34c3838db7b6526b9d73ec1a5a215d0fc295e273d7c9e359a8d3eb23d",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "experiments/run_null_field_lab_10_0.py",
+      "output_path": "source/experiments/run_null_field_lab_10_0.py",
+      "kind": "file",
+      "bytes": 292,
+      "sha256": "2554eea17ded47b87b175fa6758f629adf36a6d04f5b384d8cdb3e50ca2005ac",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "experiments/run_static_boundary_audit_10_0.py",
+      "output_path": "source/experiments/run_static_boundary_audit_10_0.py",
+      "kind": "file",
+      "bytes": 286,
+      "sha256": "816c33cbc272ab68c38814c247046d8ba434306ae7a0182f5a12d59854df2c8c",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "file_index.txt",
+      "output_path": "source/file_index.txt",
+      "kind": "file",
+      "bytes": 1174,
+      "sha256": "8b9d9d99235390492ef53783af711774f2d062cad5b2d975a2fcce4eabd335e2",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "kill_recovery_matrix.md",
+      "output_path": "source/kill_recovery_matrix.md",
+      "kind": "file",
+      "bytes": 429,
+      "sha256": "22c2f22c62fb698bf8a6a05958f9dd27539e9705d95f948ffd83cb6d911d270b",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "manifest.json",
+      "output_path": "source/manifest.json",
+      "kind": "file",
+      "bytes": 667,
+      "sha256": "0668daaeb76ff2b6428c21929e4215c234d71bde02810055544dcf9ab1a8caea",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "outputs/ccl10z_suite_10_0_report.json",
+      "output_path": "source/outputs/ccl10z_suite_10_0_report.json",
+      "kind": "file",
+      "bytes": 4719,
+      "sha256": "abc0a1c40a4998315b7c83fc02752588911a78d8ea34af7cfd7c6ebf15f8a4b7",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "outputs/final_summary_10_0.json",
+      "output_path": "source/outputs/final_summary_10_0.json",
+      "kind": "file",
+      "bytes": 443,
+      "sha256": "bf8500e2a93dda3820103c8a6130ab218b0134e2852ee80903b74df6c692a572",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "outputs/indicator_scores_10_0.csv",
+      "output_path": "source/outputs/indicator_scores_10_0.csv",
+      "kind": "file",
+      "bytes": 311,
+      "sha256": "6e98d4251283c8ec79912c349c99b1be57a04406c227bd769571f8dbd38e96df",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "outputs/null_mission_vector_10_0.csv",
+      "output_path": "source/outputs/null_mission_vector_10_0.csv",
+      "kind": "file",
+      "bytes": 522,
+      "sha256": "2b31abaf72f15824c3bea364de75a8cbac412cb53c8ead5a2a708cd1280e0aa4",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "outputs/null_to_form_to_null_trace_tail_10_0.csv",
+      "output_path": "source/outputs/null_to_form_to_null_trace_tail_10_0.csv",
+      "kind": "file",
+      "bytes": 3040,
+      "sha256": "fb5f2610ee8a71ce8c9c55f81966844e45bd5cbd93d1e4cd522ac55b31b0fb86",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "outputs/semantic_birth_death_events_10_0.csv",
+      "output_path": "source/outputs/semantic_birth_death_events_10_0.csv",
+      "kind": "file",
+      "bytes": 9490,
+      "sha256": "48f22e0e672a96e505747b64be988aaaf9e3964d8e236f03db23f589f5c3c931",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "outputs/static_boundary_audit_10_0_report.json",
+      "output_path": "source/outputs/static_boundary_audit_10_0_report.json",
+      "kind": "file",
+      "bytes": 127,
+      "sha256": "25538f5da7fef51779f22f97bacb9304dd81f85814545e4c27de46eec7396236",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "qa/code_test_report.txt",
+      "output_path": "source/qa/code_test_report.txt",
+      "kind": "file",
+      "bytes": 96,
+      "sha256": "43729d8d708581e02cd8f6a2ef7aa4a81e7a2c533645b057bb571dfe95fe8bcc",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "qa/zip_integrity_report.json",
+      "output_path": "source/qa/zip_integrity_report.json",
+      "kind": "file",
+      "bytes": 84,
+      "sha256": "a60ee8c9b0e5af0a849d953fed7ddd70f52581304a6cf0e124b5fe1519bc0352",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "references.md",
+      "output_path": "source/references.md",
+      "kind": "file",
+      "bytes": 206,
+      "sha256": "81165fd89f3386de3cd8ed4a13c646e3fb03cc52a41cb2706d4a278efce100f6",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "runtime_invocation_prompt.txt",
+      "output_path": "source/runtime_invocation_prompt.txt",
+      "kind": "file",
+      "bytes": 608,
+      "sha256": "cb4839b36b4cc0a1042107457df018f236cde2d4f3fb0e905cc9fc171f63f065",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "src/dikwp_acrs10z/__init__.py",
+      "output_path": "source/src/dikwp_acrs10z/__init__.py",
+      "kind": "file",
+      "bytes": 91,
+      "sha256": "6511ac10428c9ae24d455e789fbc041ad8d5c461c11b18e7d90eed27f6d37363",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "src/dikwp_acrs10z/assessment.py",
+      "output_path": "source/src/dikwp_acrs10z/assessment.py",
+      "kind": "file",
+      "bytes": 2418,
+      "sha256": "7bffdbd6ad2d04485a3d17faed0cc5c3fc6a5af4f6e17bc7144e356075df2246",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "src/dikwp_acrs10z/null_field.py",
+      "output_path": "source/src/dikwp_acrs10z/null_field.py",
+      "kind": "file",
+      "bytes": 7812,
+      "sha256": "cc0d37d50eba8f6c4f5d79a8098d268291e6f0255a0d3e576b4d8b396cbf1c58",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "src/dikwp_acrs10z/suite.py",
+      "output_path": "source/src/dikwp_acrs10z/suite.py",
+      "kind": "file",
+      "bytes": 3167,
+      "sha256": "6687e185360fa05e077cdd850f78644c68394b89422be92a4692e6d9b20a3765",
+      "original_mode": "0o100644",
+      "quarantined": false
+    }
+  ],
+  "evidence_boundary": "Safety of ZIP paths/budgets only. No code, install, build, tests, network, git operation, license reassignment, or certification was performed.",
+  "nested_archive_policy": "Each ZIP recursively inspected to bounded depth; all versions preserved; see root SOURCE_PROVENANCE.json."
+}

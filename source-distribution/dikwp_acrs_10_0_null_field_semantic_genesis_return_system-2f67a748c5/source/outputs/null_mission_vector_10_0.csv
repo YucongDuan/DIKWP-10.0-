@@ -1,0 +1,6 @@
+vector,description,reliability
+negate_before_generate,Inherited concepts must be nullated before field genesis,Supported/RunProof
+field_before_concept,Energy-information field states precede concept labels,Supported/RunProof
+semantic_before_answer,Semantic objects precede correct-answer claims,Supported/SemProof
+return_before_authority,Generated semantics must be able to dissolve before becoming authority,Supported/RunProof
+residual_before_finality,Residual is retained before any ultimate claim,Supported/CoreRuntime

@@ -1,0 +1,9 @@
+{
+  "system": "DIKWP-ACRS 10.0 Null-Field Semantic Genesis-Return System",
+  "claim_level": "CCL-10Z",
+  "seed": 10001,
+  "field_size": 36,
+  "steps": 64,
+  "radical_negation": true,
+  "return_to_null": true
+}

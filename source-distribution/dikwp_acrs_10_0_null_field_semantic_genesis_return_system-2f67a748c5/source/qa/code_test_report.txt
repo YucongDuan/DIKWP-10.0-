@@ -1,0 +1,4 @@
+null_start_verified: PASS
+semantic_birth: PASS
+return_to_null: PASS
+static_boundary_audit: PASS

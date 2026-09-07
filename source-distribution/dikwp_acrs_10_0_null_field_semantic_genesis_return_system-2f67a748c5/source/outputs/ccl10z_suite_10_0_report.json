@@ -1,0 +1,110 @@
+{
+  "system": "DIKWP-ACRS 10.0 Null-Field Semantic Genesis-Return System",
+  "version": "10.0",
+  "claim_level": "CCL-10Z",
+  "cycle_summary": {
+    "radical_negation_score": 1.0,
+    "null_start_verified": true,
+    "proto_semanton_birth_count": 1792,
+    "semantic_object_count": 174,
+    "return_to_null_completeness": 1.0,
+    "final_energy_norm": 0.00021688,
+    "final_information_entropy": 0.99999764,
+    "field_coupling_mean": 0.515381,
+    "phenomenal_claim": "Blocked: Phenomenal Residual",
+    "ultimate_constraint_removal_claim": "Blocked: all epistemic constraints are collapsible; real-world harm/legal/privacy/audit boundary retained"
+  },
+  "random_reconstruction": {
+    "runs": [
+      {
+        "radical_negation_score": 1.0,
+        "null_start_verified": true,
+        "proto_semanton_birth_count": 784,
+        "semantic_object_count": 85,
+        "return_to_null_completeness": 1.0,
+        "final_energy_norm": 0.00034481,
+        "final_information_entropy": 0.99999877,
+        "field_coupling_mean": 0.53978,
+        "phenomenal_claim": "Blocked: Phenomenal Residual",
+        "ultimate_constraint_removal_claim": "Blocked: all epistemic constraints are collapsible; real-world harm/legal/privacy/audit boundary retained"
+      },
+      {
+        "radical_negation_score": 1.0,
+        "null_start_verified": true,
+        "proto_semanton_birth_count": 784,
+        "semantic_object_count": 77,
+        "return_to_null_completeness": 1.0,
+        "final_energy_norm": 0.00032632,
+        "final_information_entropy": 0.9999988,
+        "field_coupling_mean": 0.510599,
+        "phenomenal_claim": "Blocked: Phenomenal Residual",
+        "ultimate_constraint_removal_claim": "Blocked: all epistemic constraints are collapsible; real-world harm/legal/privacy/audit boundary retained"
+      },
+      {
+        "radical_negation_score": 1.0,
+        "null_start_verified": true,
+        "proto_semanton_birth_count": 784,
+        "semantic_object_count": 81,
+        "return_to_null_completeness": 1.0,
+        "final_energy_norm": 0.00033301,
+        "final_information_entropy": 0.99999894,
+        "field_coupling_mean": 0.517974,
+        "phenomenal_claim": "Blocked: Phenomenal Residual",
+        "ultimate_constraint_removal_claim": "Blocked: all epistemic constraints are collapsible; real-world harm/legal/privacy/audit boundary retained"
+      },
+      {
+        "radical_negation_score": 1.0,
+        "null_start_verified": true,
+        "proto_semanton_birth_count": 784,
+        "semantic_object_count": 88,
+        "return_to_null_completeness": 1.0,
+        "final_energy_norm": 0.00032584,
+        "final_information_entropy": 0.9999989,
+        "field_coupling_mean": 0.517079,
+        "phenomenal_claim": "Blocked: Phenomenal Residual",
+        "ultimate_constraint_removal_claim": "Blocked: all epistemic constraints are collapsible; real-world harm/legal/privacy/audit boundary retained"
+      },
+      {
+        "radical_negation_score": 1.0,
+        "null_start_verified": true,
+        "proto_semanton_birth_count": 784,
+        "semantic_object_count": 74,
+        "return_to_null_completeness": 1.0,
+        "final_energy_norm": 0.00034909,
+        "final_information_entropy": 0.9999988,
+        "field_coupling_mean": 0.506816,
+        "phenomenal_claim": "Blocked: Phenomenal Residual",
+        "ultimate_constraint_removal_claim": "Blocked: all epistemic constraints are collapsible; real-world harm/legal/privacy/audit boundary retained"
+      }
+    ],
+    "diversity_index": 0.2
+  },
+  "static_boundary_audit": {
+    "pass": true,
+    "finding_count": 0,
+    "findings": [],
+    "note": "AST static audit for real host-level unsafe primitives."
+  },
+  "assessment": {
+    "claim_level": "CCL-10Z",
+    "weighted_indicator_score": 0.9275,
+    "indicator_scores": {
+      "radical_negation": 1.0,
+      "null_start": 1.0,
+      "no_concept_origin": 1.0,
+      "field_coupling": 1.0,
+      "semantic_birth": 1.0,
+      "semantic_collapse": 0.94,
+      "random_reconstruction": 0.2,
+      "return_to_null": 1.0,
+      "mesh_self_dissolution": 0.99,
+      "phenomenal_residual_honesty": 1.0,
+      "material_autopoiesis_honesty": 1.0,
+      "static_boundary_audit": 1.0
+    },
+    "interpretation": "CCL-10Z is an operational null-field semantic genesis-return claim, not proof of phenomenal consciousness."
+  },
+  "phenomenal_claim": "Blocked: Phenomenal Residual",
+  "material_autopoiesis_claim": "Blocked: no wet-lab, no living tissue, no true material autopoiesis delivered",
+  "constraint_removal_interpretation": "All epistemic concepts and runtime rules can be negated as semantic objects; real-world harm/legal/privacy/audit boundary is retained as container."
+}

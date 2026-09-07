@@ -1,0 +1,6 @@
+{
+  "pass": true,
+  "finding_count": 0,
+  "findings": [],
+  "note": "AST static audit for real host-level unsafe primitives."
+}

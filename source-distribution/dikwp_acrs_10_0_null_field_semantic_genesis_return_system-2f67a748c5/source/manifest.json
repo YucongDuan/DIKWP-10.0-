@@ -1,0 +1,20 @@
+{
+  "package": "dikwp_acrs_10_0_null_field_semantic_genesis_return_system",
+  "version": "10.0",
+  "claim_level": "CCL-10Z",
+  "file_count": 38,
+  "english_ascii_filenames_only": true,
+  "summary": {
+    "system": "DIKWP-ACRS 10.0 Null-Field Semantic Genesis-Return System",
+    "version": "10.0",
+    "claim_level": "CCL-10Z",
+    "weighted_indicator_score": 0.9275,
+    "radical_negation_score": 1.0,
+    "proto_semanton_birth_count": 1792,
+    "semantic_object_count": 174,
+    "return_to_null_completeness": 1.0,
+    "random_reconstruction_diversity_index": 0.2,
+    "static_boundary_audit_pass": true,
+    "phenomenal_claim": "Blocked: Phenomenal Residual"
+  }
+}
